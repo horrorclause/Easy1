@@ -1,5 +1,5 @@
 # Easy1
-Solution to the picoCTF Easy1challenge in python3
+Solution to the picoCTF Easy1 cryptography challenge done in python3
 
 Description
 
